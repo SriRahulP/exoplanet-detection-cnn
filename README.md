@@ -6,7 +6,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-📫 **[Your Name]** · [LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:your.email@example.com) · [Resume](https://your-resume-link.com)
+📫 **[Sri Rahul P]** · [LinkedIn](https://www.linkedin.com/in/srirahulp2005) · [Email](mailto:rahulnjr111@gmail.com) · [Resume](https://your-resume-link.com)
 
 ---
 
@@ -143,4 +143,4 @@ Matplotlib · Seaborn
 
 ---
 
-📫 **Interested in discussing this project?** Reach out — [LinkedIn](https://www.linkedin.com/in/srirahulp2005) · [Email](mailto:yrahulnjr111@gmail.com)
+📫 **Interested in discussing this project?** Reach out — [LinkedIn](https://www.linkedin.com/in/srirahulp2005) · [Email](mailto:rahulnjr111@gmail.com)
